@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TEOTIA18 
 - 👀 I’m interested in DATA SCIENCE 
-- 🌱 I’m currently learning MySql ,machine learning mdoel deployments .
+- 🌱 I’m currently learning MySql ,machine learning mdoel deployments ,AWS .
 - 💞️ I’m looking to collaborate on Projects related to database and ML.
 - 🔭 I’m currently working on building a machine learning model for prediction of stock market to prevent loss at an early stage.
 - 📫 How to reach me ...Email- abitevotia003@gmail.com
